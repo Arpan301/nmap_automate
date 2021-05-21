@@ -22,6 +22,7 @@ Command to install nmap on ubuntu and debian distos
  To install this script go to terminal and give comment
  # cd Downloads
  # git clone https://github.com/Arpan301/nmap_automate.git
+ # cd nmap_auto.sh
  # bash nmap_auto.sh
  
  
