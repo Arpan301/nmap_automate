@@ -13,7 +13,7 @@ echo "\\\\\\\\\\\\\\\\\					   ////////////////////"
 echo "\\\\\\\\\\\\\\\\\\\\				///////////////////////"
 echo "\\\\\\\\\\\\\\\\\\\\\\\ ######################## ///////////////////////"
 #This dezign can cause temporary glitch
-echo "Enter the ip which is within the network to be  searched"
+echo "Enter the ip which is within the network to be  searched or the web to be searched like 'google.com' form"
 read ip 
 #takes the ip
 echo "Enter 'u' for UDP scan "
